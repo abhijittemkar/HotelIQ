@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">HoteliQ</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="login">Login</string>
+    <string name="lg">LOGIN</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="add">Add</string>
+    <string name="details">Details</string>
+    <string name="nm">Name</string>
+    <string name="mail">Email</string>
+    <string name="female">Female</string>
+    <string name="customer">Customer</string>
+    <string name="adhar_no">Adhar No</string>
+    <string name="zender">Zender</string>
+    <string name="please_enter_name">Please Enter Name</string>
+    <string name="enter_phone">Enter Phone</string>
+    <string name="enter_address">Enter Address</string>
+    <string name="enter_emaill">Enter Email</string>
+    <string name="enter_adhar">Enter Adhar</string>
+    <string name="male">Male</string>
+    <string name="c_id">C ID</string>
+    <string name="enter_id">Enter ID</string>
+    <string name="postal">Postal</string>
+    <string name="city">City</string>
+    <string name="title_activity_base">Base</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_Contacts">Contacts</string>
+    <string name="enter_city">Enter City</string>
+    <string name="enter_zender">Enter zender</string>
+    <string name="hotel_management">Hotel Management</string>
+    <string name="employee">Employee</string>
+    <string name="salary">Salary</string>
+    <string name="enter_salary">Enter Salary</string>
+    <string name="post">Post</string>
+    <string name="enter_post">Enter Post</string>
+    <string name="enter_phone_no">Enter Phone No</string>
+    <string name="e_id">E ID</string>
+    <string name="enter_user_name">Enter User Name</string>
+    <string name="EMSAVE">Add</string>
+    <string name="enter_room_id">Enter Room ID</string>
+    <string name="title_activity_employee_view">EmployeeView</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
